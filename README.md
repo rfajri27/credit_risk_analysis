@@ -20,11 +20,11 @@ Berdasarkan plot tersebut diketahui bahwa dari keseluruhan pengajuan pinjaman te
 
 ### Distribusi Risk Rating
 
-![](image/plot_dis_kpr_aktif.png)
+![](images/plot_dis_kpr_aktif.png)
 
-![](image/plot_dis_durasi_pinjaman_bulan.png)
+![](images/plot_dis_durasi_pinjaman_bulan.png)
 
-![](image/plot_dis_jumlah_tanggungan.png)
+![](images/plot_dis_jumlah_tanggungan.png)
 
 - Jika durasi pinjaman lebih dari 24 bulan, kecenderungan resikonya tinggi
 - Jika jumlah tanggungan lebih dari 4, kecenderungan resikonya sangat tinggi (rating 4 dan 5)
