@@ -33,10 +33,10 @@ Berdasarkan plot tersebut diketahui bahwa dari keseluruhan pengajuan pinjaman te
 ## Modelling using Decision Tree
 
 ```
-Classification Report (Data Training) :
+Prediction Report (Data Training) :
 Accuracy:  1.0
 
-Classification Report (Data Testing):
+Prediction Report (Data Testing):
 Accuracy:  1.0
 ```
 
