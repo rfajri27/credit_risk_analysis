@@ -47,4 +47,4 @@ Accuracy:  1.0
     - Memiliki KPR aktif
     - Memiliki jumlah tanggungan lebih dari 4
     - Durasi pinjaman lebih dari 24 bulan
-- Dengan menggunakan model *Decision Tree* kita dapat membuat model untuk memprediksi nilai *risk rating* dengan akurasi yang sangat tinggi, sehingga model ini dapat dijadikan sebagai basis pengambilan keputusan terhadap aplikasi pinjaman baru
+- Dengan menggunakan model *Decision Tree* kita dapat membuat model untuk memprediksi nilai *risk rating* dengan akurasi yang sangat baik, sehingga model ini dapat dijadikan sebagai basis pengambilan keputusan terhadap aplikasi pinjaman baru
