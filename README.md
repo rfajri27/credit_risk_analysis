@@ -18,7 +18,7 @@ Berdasarkan plot tersebut diketahui bahwa dari keseluruhan pengajuan pinjaman te
 
 ![](images/box_plot_pendapatan.png)
 
-### Distribusi Risk Rating
+### Distribusi of Risk Rating
 
 ![](images/plot_dis_kpr_aktif.png)
 
